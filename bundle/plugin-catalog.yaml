@@ -6,3 +6,4 @@ configurations:
 - description: Workshop Additional Plugins
   includePlugins:
     pipeline-utility-steps: {version: '2.12.0'}
+    aws-secrets-manager-credentials-provider: {version: '1.198.v839f082578db'}
